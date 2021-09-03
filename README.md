@@ -21,9 +21,11 @@
 
 <hr>
 
+<!--
 > Self-education is, I firmly believe, the only kind of education there is.
 
 — Isaac Asimov
 <br>
+-->
 
 💎 From [Roco Sittoni](https://github.com/rocoSittoni)
