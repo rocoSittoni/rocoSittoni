@@ -17,7 +17,7 @@
 - Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocoSittoni&theme=github_dark&layout=compact)](https://github.com/rocoSittoni)
-_______________[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rocoSittoni&theme=github_dark)](https://github.com/rocoSittoni)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rocoSittoni&theme=github_dark)](https://github.com/rocoSittoni)
 
 <hr>
 
