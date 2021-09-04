@@ -28,4 +28,4 @@
 <br>
 -->
 
-💎 From [Roco Sittoni](https://github.com/rocoSittoni)
+*From [Roco Sittoni](https://github.com/rocoSittoni)*
